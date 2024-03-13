@@ -1,8 +1,17 @@
 ### Hi there 👋
 
-<!--
-**YanY-Henry/YanY-Henry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yan Yuhang Henry, an undergraduate majoring in [Computer Science](https://www.cse.cuhk.edu.hk/admission/cscin/) from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html).
 
+In my GitHub, you can find most of the projects I've participated in (except for a few non-public ones). And I'll pin the repositories that I'm currently working on.
+
+If you have any ideas (including all kinds of questions and possible collaborations), please **always** feel free to contact me.
+
+- 💻 My personal website: https://yany-henry.github.io
+- 📧 My e-mail address: yanyuhang2002@link.cuhk.edu.hk
+- 🐧 My WeChat account: YanY_Henry
+
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
