@@ -1,6 +1,6 @@
 ### Hi👋, this is YAN Yuhang Henry.
 
-In my GitHub, you can find most of the projects I've participated in (except for a few non-public ones). And I'll pin the repositories that I'm currently working on.
+In my GitHub, you can find most of the projects I've participated in (except for a few non-public ones).
 
 If you have any ideas (including all kinds of questions and possible collaborations), please **always** feel free to contact me.
 
