@@ -7,7 +7,7 @@ If you have any ideas (including all kinds of questions and possible collaborati
 - 💻 Degree: [B.Sc. in Computer Science](https://www.cse.cuhk.edu.hk/admission/cscin/)
 - 🏫 University: [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html)
 - 🌍 My personal website: https://yany-henry.me
-- 📧 My e-mail address: yanyuhang2002@link.cuhk.edu.hk
+- 📧 My e-mail address: yhyan2@cse.cuhk.edu.hk
 - 🐧 My WeChat account: YanY_Henry
 
 
