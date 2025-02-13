@@ -1,6 +1,6 @@
 ### Hi👋, this is YAN Yuhang Henry.
 
-Welcome to my GitHub! Here, you’ll find most of the projects I've contributed to (with a few exceptions for non-public projects).
+Welcome to my GitHub! Here, you'll find most of the projects I've contributed to (with a few exceptions for non-public projects).
 
 If you have any ideas, questions, or potential collaborations, please ***always feel free*** to reach out.
 
