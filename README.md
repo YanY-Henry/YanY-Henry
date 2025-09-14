@@ -4,9 +4,9 @@ Welcome to my GitHub! Here, you'll find most of the projects I've contributed to
 
 If you have any ideas, questions, or potential collaborations, please ***always feel free*** to reach out.
 
-- 🎓 Degree: [B.Sc. in Computer Science](https://www.cse.cuhk.edu.hk/admission/cscin/)
-- 🏫 University: [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html)
-- 📮 My e-mail address: yhyan2@cse.cuhk.edu.hk
+- 🎓 Degree: [MS in Applied Info Science & Info Systems](https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-connective-media/) | [B.Sc. in Computer Science](https://www.cse.cuhk.edu.hk/admission/cscin/)
+- 🏫 University: [Cornell Tech](https://tech.cornell.edu) | [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html)
+- 📮 My e-mail address: yy2373@cornell.edu
 
 I am working on maintaining these online profiles to make it easier for you to get to know me:
 
