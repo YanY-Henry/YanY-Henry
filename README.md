@@ -1,4 +1,4 @@
-### Hi👋, this is YAN Yuhang Henry.
+### Hi👋, this is Henry Yan.
 
 Welcome to my GitHub! Here, you'll find most of the projects I've contributed to (with a few exceptions for non-public projects).
 
