@@ -16,4 +16,4 @@ I am working on maintaining these online profiles to make it easier for you to g
 
 Thanks for visiting, and I look forward to connecting!
 
-<img src="icons/stitch.gif" alt="Stitch waving" width="200">
+<img src="icons/stitch.gif" alt="Stitch waving" width="130">
