@@ -15,3 +15,5 @@ I am working on maintaining these online profiles to make it easier for you to g
 - Professional: <img src="icons/linkedin.svg" alt="LinkedIn" style="height: 14px; vertical-align: middle;"> [LinkedIn YanY-Henry](https://www.linkedin.com/in/YanY-Henry/)
 
 Thanks for visiting, and I look forward to connecting!
+
+<img src="icons/stitch.gif" alt="Stitch waving" width="200">
